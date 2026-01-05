@@ -102,7 +102,7 @@
             <b>Habilidades tecnológicas utilizadas:</b> lectura y comprensión de requisitos, uso de google sheets para generar reportes de errores
           </li>
           <li>
-            Google Sheet el proyecto:<a href="https://docs.google.com/spreadsheets/d/19u83zEmDRqEyYa0OIqSUDm_N44fUky9N/edit?usp=sharing&ouid=104034243564443671393&rtpof=true&sd=true"> Sprint 1</a>
+            Google Sheet del proyecto:<a href="https://docs.google.com/spreadsheets/d/19u83zEmDRqEyYa0OIqSUDm_N44fUky9N/edit?usp=sharing&ouid=104034243564443671393&rtpof=true&sd=true"> Sprint 1</a>
           </li>
         </ul>
     </p>
@@ -114,6 +114,15 @@
           <li>
             <b>Habilidades tecnológicas utilizadas:</b> Uso de Xmind, Drawio, desarrollo de pruebas funcionales y no funcionales, pruebas positivas y negativas, clases de equivalencia.
           </li>
+           <li>
+            Google Sheet el proyecto:<a href="https://docs.google.com/spreadsheets/d/1wwzDmf1HDyfQnY7lrz9SD0onp_KEutzO/edit?usp=drive_link&ouid=104034243564443671393&rtpof=true&sd=true"> Sheet Sprint 2</a>
+          </li>
+           <li>
+            Mapa Mental del proyecto:<a href="https://drive.google.com/file/d/1docNNb5scz9SGFuJvh_8d5VBTFrGm9Qh/view?usp=drive_link"> Mapa Sprint 2</a>
+          </li>
+           <li>
+            Diagrama de flujo del proyecto:<a href="https://drive.google.com/file/d/1XkI_7OQ88nPu9RrMUNFpMo3pACvP_twF/view?usp=drive_link"> Diagrama Sprint 2</a>
+          </li>
         </ul>
     </p>
     <p>
@@ -124,6 +133,9 @@
           <li>
             <b>Habilidades tecnológicas utilizadas:</b> Uso e implementación de JIRA, uso del Developer tools de Chrome y Firefox.
           </li>
+           <li>
+            Google Sheet del proyecto:<a href="https://docs.google.com/spreadsheets/d/1sI9tekgpshbknJLgw64xE19YKxiQujPR/edit?usp=sharing&ouid=104034243564443671393&rtpof=true&sd=true"> Sprint 3</a>
+          </li>
         </ul>
     </p>
     <p>
@@ -133,6 +145,9 @@
           </li>
           <li>
             <b>Habilidades tecnológicas utilizadas:</b> Uso de APIDOC, Uso de POSTMAN, Reporte de errores en JIRA.
+          </li>
+           <li>
+            Google Sheet del proyecto:<a href="https://docs.google.com/spreadsheets/d/1rbKqjR5KBEAvLDIXYdKsfeof0wUjDDdEKMLPO6yX4QU/edit?usp=sharing"> Sprint 4</a>
           </li>
         </ul>
     </p>
