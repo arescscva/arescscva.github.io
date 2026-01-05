@@ -105,32 +105,32 @@
         </ul>
     </p>
     <p>
-      <h3>Análisis de requisitos  | QA Engineer en Tripleten (2025)</h3>
+      <h3>Diseño de pruebas  | QA Engineer en Tripleten (2025)</h3>
         <ul>
-          <li>Realice pruebas de regresión para una aplicación de práctica  de servicios de transportación, en la que detecte 12 bugs con diferentes grados de severidad que permite al equipo de desarrollo una facil     deteccion de los puntos a corregir y poder tener una experiencia de usuario adecuada a los fines de la aplicación.
+          <li>Conforme a los requisitos de una aplicacion de transportes (Urban Routes), realicé el mapa mental y diagrama de flujo con la finalidad de poder crear una lista de comprobación para la busqueda de posibles errores en la aplicación.
           </li>
           <li>
-            <b>Habilidades tecnológicas utilizadas:</b> lectura y comprensión de requisitos, uso de google sheets para generar reportes de errores
+            <b>Habilidades tecnológicas utilizadas:</b> Uso de Xmind, Drawio, desarrollo de pruebas funcionales y no funcionales, pruebas positivas y negativas, clases de equivalencia.
           </li>
         </ul>
     </p>
     <p>
-      <h3>Análisis de requisitos  | QA Engineer en Tripleten (2025)</h3>
+      <h3>Prueba de aplicaciones web  | QA Engineer en Tripleten (2025)</h3>
         <ul>
-          <li>Realice pruebas de regresión para una aplicación de práctica  de servicios de transportación, en la que detecte 12 bugs con diferentes grados de severidad que permite al equipo de desarrollo una facil     deteccion de los puntos a corregir y poder tener una experiencia de usuario adecuada a los fines de la aplicación.
+          <li>Realice la generaciónde Listas de comprobación, Casos de prueba UI de una plicación web de practicas para el traslado de usuarios en el apartado de compartición de automóvil, Informes de errores basado en 2 navegadores con diferentes resoluciones y reporte de bugs en Jira con Screenshots, ademas de una tabla de referencia estructurada en google sheets.
           </li>
           <li>
-            <b>Habilidades tecnológicas utilizadas:</b> lectura y comprensión de requisitos, uso de google sheets para generar reportes de errores
+            <b>Habilidades tecnológicas utilizadas:</b> Uso e implementación de JIRA, uso del Developer tools de Chrome y Firefox.
           </li>
         </ul>
     </p>
     <p>
-      <h3>Análisis de requisitos  | QA Engineer en Tripleten (2025)</h3>
+      <h3>Prueba de API  | QA Engineer en Tripleten (2025)</h3>
         <ul>
-          <li>Realice pruebas de regresión para una aplicación de práctica  de servicios de transportación, en la que detecte 12 bugs con diferentes grados de severidad que permite al equipo de desarrollo una facil     deteccion de los puntos a corregir y poder tener una experiencia de usuario adecuada a los fines de la aplicación.
+          <li>Basado en los requisitos de una plicación de práctica para la venta de abarrotes,implemente 36 casos de prueba cubriendo escenarios positivos, negativos y de límites. Identificando correctamente varios bugs críticos del API.
           </li>
           <li>
-            <b>Habilidades tecnológicas utilizadas:</b> lectura y comprensión de requisitos, uso de google sheets para generar reportes de errores
+            <b>Habilidades tecnológicas utilizadas:</b> Uso de APIDOC, Uso de POSTMAN, Reporte de errores en JIRA.
           </li>
         </ul>
     </p>
