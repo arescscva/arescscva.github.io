@@ -87,7 +87,7 @@
       <li>Metodologías ágiles (Scrum)</li>
       <li>Mapas mentales</li>
       <li>Diagramas de flujo</li>
-      <li>Clases ed equivalencia</li>
+      <li>Clases de equivalencia</li>
     </ul>
   </section>
 
