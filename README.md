@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Perfil QA Tester Jr</title>
+  <title>Arturo Esqueda - QA Tester Jr</title>
   <style>
     body {
       font-family: Arial, Helvetica, sans-serif;
@@ -53,16 +53,14 @@
 <body>
 
   <header>
-    <h1>Ah Kin Yax</h1>
+    <h1>Arturo Esqueda</h1>
     <p>QA Tester Jr | Testing Manual & Automatizado</p>
   </header>
 
   <section>
     <h2>Sobre mí</h2>
     <p>
-      Soy un QA Tester Jr con interés en asegurar la calidad del software a través de pruebas funcionales,
-      detección de errores y mejora continua de procesos. Me enfoco en aprender buenas prácticas de testing
-      y en colaborar con equipos de desarrollo.
+      QA Engineer en formación con experiencia práctica en pruebas manuales, diseño de casos de prueba, pruebas de API con Postman y reporte de bugs en Jira. Experiencia previa en soporte técnico y servicio al cliente, aplicando una mentalidad analítica y orientada al detalle para garantizar la calidad del software.
     </p>
   </section>
 
@@ -72,11 +70,12 @@
       <span>Testing Manual</span>
       <span>Casos de Prueba</span>
       <span>Reporte de Bugs</span>
-      <span>HTML</span>
-      <span>CSS</span>
-      <span>SQL Básico</span>
-      <span>Jira</span>
+      <span>JIRA</span>
       <span>Postman</span>
+      <span>Pruebas de API</span>
+      <span>APIDOC</span>
+      <span>Xmaind</span>
+      <span>Draw.oi</span>
     </div>
   </section>
 
@@ -86,7 +85,9 @@
       <li>Pruebas funcionales y no funcionales</li>
       <li>Pruebas de regresión</li>
       <li>Metodologías ágiles (Scrum)</li>
-      <li>Documentación de incidencias</li>
+      <li>Mapas mentales</li>
+      <li>Diagramas de flujo</li>
+      <li>Clases ed equivalencia</li>
     </ul>
   </section>
 
@@ -100,8 +101,8 @@
 
   <section>
     <h2>Contacto</h2>
-    <p>Email: tukorreo@email.com</p>
-    <p>LinkedIn: linkedin.com/in/tu-perfil</p>
+    <p>Email: arturoe.laram@outlook.com</p>
+    <p>LinkedIn: linkedin.com/in/arturo-esqueda-qa-engineer</p>
   </section>
 
   <footer>
