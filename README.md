@@ -102,7 +102,7 @@
             <b>Habilidades tecnológicas utilizadas:</b> lectura y comprensión de requisitos, uso de google sheets para generar reportes de errores
           </li>
           <li>
-            Google Sheet el proyecto:<a href="https://docs.google.com/spreadsheets/d/19u83zEmDRqEyYa0OIqSUDm_N44fUky9N/edit?usp=sharing&ouid=104034243564443671393&rtpof=true&sd=true"> Sprint 1
+            Google Sheet el proyecto:<a href="https://docs.google.com/spreadsheets/d/19u83zEmDRqEyYa0OIqSUDm_N44fUky9N/edit?usp=sharing&ouid=104034243564443671393&rtpof=true&sd=true"> Sprint 1</a>
           </li>
         </ul>
     </p>
