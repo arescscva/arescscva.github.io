@@ -152,8 +152,11 @@
 
   <section>
     <h2>Contacto</h2>
-    <p>Email:<a href="mailto:arturoe.laram@outlook.com"> arturoe.laram@outlook.com</p><a/>
-    <p>LinkedIn:<a href="https://www.linkedin.com/in/arturo-esqueda-qa-engineer/"> linkedin.com/in/arturo-esqueda-qa-engineer<a/></p>
+    <p>
+      Email:<a href="mailto:arturoe.laram@outlook.com"> arturoe.laram@outlook.com</a>
+    </p>
+    <p>LinkedIn:<a href="https://www.linkedin.com/in/arturo-esqueda-qa-engineer/"> linkedin.com/in/arturo-esqueda-qa-engineer</a>
+    </p>
   </section>
 
   <footer>
