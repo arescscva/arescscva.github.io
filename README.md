@@ -103,6 +103,36 @@
           </li>
         </ul>
     </p>
+    <p>
+      <h3>Análisis de requisitos  | QA Engineer en Tripleten (2025)</h3>
+        <ul>
+          <li>Realice pruebas de regresión para una aplicación de práctica  de servicios de transportación, en la que detecte 12 bugs con diferentes grados de severidad que permite al equipo de desarrollo una facil     deteccion de los puntos a corregir y poder tener una experiencia de usuario adecuada a los fines de la aplicación.
+          </li>
+          <li>
+            <b>Habilidades tecnológicas utilizadas:</b> lectura y comprensión de requisitos, uso de google sheets para generar reportes de errores
+          </li>
+        </ul>
+    </p>
+    <p>
+      <h3>Análisis de requisitos  | QA Engineer en Tripleten (2025)</h3>
+        <ul>
+          <li>Realice pruebas de regresión para una aplicación de práctica  de servicios de transportación, en la que detecte 12 bugs con diferentes grados de severidad que permite al equipo de desarrollo una facil     deteccion de los puntos a corregir y poder tener una experiencia de usuario adecuada a los fines de la aplicación.
+          </li>
+          <li>
+            <b>Habilidades tecnológicas utilizadas:</b> lectura y comprensión de requisitos, uso de google sheets para generar reportes de errores
+          </li>
+        </ul>
+    </p>
+    <p>
+      <h3>Análisis de requisitos  | QA Engineer en Tripleten (2025)</h3>
+        <ul>
+          <li>Realice pruebas de regresión para una aplicación de práctica  de servicios de transportación, en la que detecte 12 bugs con diferentes grados de severidad que permite al equipo de desarrollo una facil     deteccion de los puntos a corregir y poder tener una experiencia de usuario adecuada a los fines de la aplicación.
+          </li>
+          <li>
+            <b>Habilidades tecnológicas utilizadas:</b> lectura y comprensión de requisitos, uso de google sheets para generar reportes de errores
+          </li>
+        </ul>
+    </p>
   </section>
 
   <section>
