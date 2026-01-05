@@ -152,7 +152,7 @@
 
   <section>
     <h2>Contacto</h2>
-    <p>Email:<a href:="mailto:arturoe.laram@outlook.com"> arturoe.laram@outlook.com<a/></p>
+    <p>Email:<a href:="mailto:arturoe.laram@outlook.com">arturoe.laram@outlook.com<a/></p>
     <p>LinkedIn: linkedin.com/in/arturo-esqueda-qa-engineer</p>
   </section>
 
