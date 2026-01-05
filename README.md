@@ -5,20 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Arturo López Manrique | Bienvenido a mi portafolio de proyectos como QA Engineer.</title>
+<title>Arturo Esqueda | Bienvenido a mi portafolio de proyectos como QA Engineer.</title>
 <meta name="generator" content="Jekyll v3.10.0">
-<meta property="og:title" content="Arturo López Manrique">
+<meta property="og:title" content="Arturo Esqueda">
 <meta property="og:locale" content="en_US">
 <meta name="description" content="Bienvenido a mi portafolio de proyectos como QA Engineer.">
 <meta property="og:description" content="Bienvenido a mi portafolio de proyectos como QA Engineer.">
-<link rel="canonical" href="https://arturolopman.github.io/">
-<meta property="og:url" content="https://arturolopman.github.io/">
-<meta property="og:site_name" content="Arturo López Manrique">
+<link rel="canonical" href="https://arescscva.github.io/">
+<meta property="og:url" content="https://arescscva.github.io/">
+<meta property="og:site_name" content="Arturo Esqueda">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
-<meta property="twitter:title" content="Arturo López Manrique">
+<meta property="twitter:title" content="Arturo Esqueda">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"Bienvenido a mi portafolio de proyectos como QA Engineer.","headline":"Arturo López Manrique","name":"Arturo López Manrique","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://arturolopman.github.io/assets/img/alm2.png"}},"url":"https://arturolopman.github.io/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","description":"Bienvenido a mi portafolio de proyectos como QA Engineer.","headline":"Arturo Esqueda","name":"Arturo Esqueda","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://arturolopman.github.io/assets/img/alm2.png"}},"url":"https://arturolopman.github.io/"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/assets/css/style.css?v=3fcb391e4ced9e35a426519ba436611fc70d8e89">
