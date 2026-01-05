@@ -135,9 +135,24 @@
     </p>
   </section>
 
+   <section>
+    <h2>Otras Habilidades</h2>
+     <div class="skills">
+      <span>Trabajo en equipo</span>
+      <span>Ubuntu</span>
+      <span>Soporte Técnico</span>
+      <span>Asesoria TI</span>
+      <span>Atención al Cliente</span>
+      <span>Garantía de productos</span>
+      <span>Fireworks</span>
+      <span>Lightroom</span>
+      <span>Sintetizadores VST</span>
+    </div>
+  </section>
+
   <section>
     <h2>Contacto</h2>
-    <p>Email: arturoe.laram@outlook.com</p>
+    <p>Email:<a href:mailto:arturoe.laram@outlook.com</a> arturoe.laram@outlook.com</p>
     <p>LinkedIn: linkedin.com/in/arturo-esqueda-qa-engineer</p>
   </section>
 
